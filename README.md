@@ -6,9 +6,7 @@
 
 **Prerequisites:**
 
-JMeter
-Java 
-Git
+JMeter, Java, Git
 
 **Running the Tests:**
 command:Clone the repository:git clone https://github.com/your-username/repository-name.git
